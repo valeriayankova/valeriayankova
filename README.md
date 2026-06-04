@@ -34,5 +34,3 @@ Build robust backend systems that handle complexity with elegance. Currently exp
 - Open to collaborations, technical discussions, and connecting with the Java community
 
 ---
-
-*Building systems that scale. Writing code that lasts.* ⚡
