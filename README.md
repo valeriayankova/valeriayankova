@@ -13,7 +13,7 @@ Java developer with **4+ years** building scalable, high-performance systems in 
 - RESTful APIs
 
 **Domains:**
-- Compliance & RegTech (KYC/KYB, AML, Transaction Monitoring)
+- Compliance & RegTech
 - Fintech & Payment Processing
 - IoT & Real-time Systems
 - Customer Engagement Platforms
