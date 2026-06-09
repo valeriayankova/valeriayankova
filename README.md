@@ -1,6 +1,6 @@
-# Hey, I'm Valeria 👋
+# Hey, I'm Val 👋
 
-Java developer with **4+ years** building scalable, high-performance systems in fintech, compliance, and real-time platforms.
+Java developer with 5 years building scalable, high-performance systems across fintech, compliance, IoT.
 
 ## 🛠️ Expertise
 
@@ -17,20 +17,7 @@ Java developer with **4+ years** building scalable, high-performance systems in 
 - Fintech & Payment Processing
 - IoT & Real-time Systems
 - Customer Engagement Platforms
-
-**Practices:**
-- Clean Code & SOLID Principles
-- CI/CD & DevOps
-- Test-driven Development
-- System Design & Scalability
-
-## 🚀 What I Do
-
-Build robust backend systems that handle complexity with elegance. Currently exploring advanced Java patterns, AI, and sharing what I learn.
-
+  
 ## 🤝 Let's Connect
 
 - **LinkedIn:** [Valeria Yankova](https://www.linkedin.com/in/valeria-yankova-b6717717a/)
-- Open to collaborations, technical discussions, and connecting with the Java community
-
----
